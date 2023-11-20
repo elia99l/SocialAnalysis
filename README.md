@@ -24,3 +24,15 @@ identify opportunities or risks related to global trade dynamics.
 <br>- <b>Socio-Economic Impact:</b> Information from the project can be used to improve
 understanding of global trade relations, guiding more informed and sustainable
 economic decisions.
+
+<h3>Exchange map for the year 2017:</h3>
+Within figure, the global trade network for the year 2017 has been represented through an
+oriented graph, in which we have:
+- Nodes, representing the countries of the world identified by their ISO_3digit_alpha
+- The oriented arcs, which represent an import or export of a given product from/to
+other countries (nodes)
+For each node, only the first two outgoing arcs (exports) are displayed, calculated based on
+the value of trade (only the first two export flows were considered based on their value for
+reasons of graph explicability).
+
+![mappa2017](https://github.com/elia99l/SocialAnalysis/blob/main/figura2.jpg)
