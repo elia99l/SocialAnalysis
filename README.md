@@ -26,7 +26,7 @@ identify opportunities or risks related to global trade dynamics.
 understanding of global trade relations, guiding more informed and sustainable
 economic decisions.
 
-<h3>Exchange map for the year 2017:</h3>
+<h3>Exchange map for the year 2017</h3>
 Within figure, the global trade network for the year 2017 has been represented through an
 oriented graph, in which we have:
 - Nodes, representing the countries of the world identified by their ISO_3digit_alpha
@@ -38,7 +38,7 @@ reasons of graph explicability).
 
 ![mappa2017](https://github.com/elia99l/SocialAnalysis/blob/main/figura2.jpg)
 
-<h3>Change in trade flow density:</h3>
+<h3>Change in trade flow density</h3>
 represents the change in trade density flow for the years 2017, 2018, 2019, 2020, and
 2021. The density values by year were calculated by counting the number of connections that
 came up in that year and dividing by the maximum number of connections that can be made
@@ -47,3 +47,13 @@ Where 𝑛links represents the number of connections made and 𝑛total represen
 number of connections that can be made.
 
 ![density](https://github.com/elia99l/SocialAnalysis/blob/main/densit%C3%A0.png)
+
+<h3>Table countries with best centrality values by year</h3>
+Degree centrality, in this study, is useful for us to determine the importance of a country only from the numerical
+perspective of imports and exports while, in order to determine the importance of a country
+based on the entire trade network, it is important to consider closeness centrality and
+eigenvector centrality. For these reasons, we have chosen to use these measures of centrality
+in order to address the problems highlighted at the beginning of the report from several
+different perspectives.
+
+![centrality](https://github.com/elia99l/SocialAnalysis/blob/main/centrality.png)
