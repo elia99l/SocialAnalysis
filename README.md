@@ -1,4 +1,4 @@
-# Trade Flow Analysis Global
+<h1>📈 Trade Flow Analysis Global 🌍
 <h2>This is a project as part of the Social Network Analysis course of the degree in computer science for management at the university of bologna</h2>
 <br>In the context of global economic evolution, trade data analysis plays a crucial role in
 understanding trade dynamics among nations. Globalization has expanded opportunities for
@@ -8,7 +8,7 @@ French research center CEPII (Centre d'Etudes Prospectives d'Informations Intern
 on global trade.
 Link dataset: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37
 
-<br><h3>Objectives:</h3>
+<br><h3>🎯 Objectives:</h3>
 1. To understand how the density of trade between countries changes over
 time and the consequences of these changes.
 2. Identify the most influential countries in the trade network through
