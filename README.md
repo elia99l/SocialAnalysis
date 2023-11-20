@@ -42,7 +42,8 @@ reasons of graph explicability).
 represents the change in trade density flow for the years 2017, 2018, 2019, 2020, and
 2021. The density values by year were calculated by counting the number of connections that
 came up in that year and dividing by the maximum number of connections that can be made
-for a given year.𝐷𝑒𝑛𝑠𝑖𝑡𝑦 = 𝑛links / 𝑛total
+for a given year. 𝐷𝑒𝑛𝑠𝑖𝑡𝑦 = 𝑛links / 𝑛total
 Where 𝑛links represents the number of connections made and 𝑛total represents the maximum
 number of connections that can be made.
 
+![density](https://github.com/elia99l/SocialAnalysis/blob/main/densit%C3%A0.png)
