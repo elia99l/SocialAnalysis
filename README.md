@@ -6,6 +6,7 @@ interchange, bringing with it increasing complexity in international trade patte
 this backdrop, this study aims to explore and analyze the BACI dataset provided by the
 French research center CEPII (Centre d'Etudes Prospectives d'Informations Internationales)
 on global trade.
+Link dataset: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37
 
 <br><h3>Objectives:</h3>
 1. To understand how the density of trade between countries changes over
@@ -36,3 +37,12 @@ the value of trade (only the first two export flows were considered based on the
 reasons of graph explicability).
 
 ![mappa2017](https://github.com/elia99l/SocialAnalysis/blob/main/figura2.jpg)
+
+<h3>Change in trade flow density:</h3>
+represents the change in trade density flow for the years 2017, 2018, 2019, 2020, and
+2021. The density values by year were calculated by counting the number of connections that
+came up in that year and dividing by the maximum number of connections that can be made
+for a given year.𝐷𝑒𝑛𝑠𝑖𝑡𝑦 = 𝑛links / 𝑛total
+Where 𝑛links represents the number of connections made and 𝑛total represents the maximum
+number of connections that can be made.
+
